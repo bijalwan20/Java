@@ -27,9 +27,9 @@ public class Q3 {
 
 }
 
-interface in1
-{
-	void display();
+
+interface A {
+	void display(int p);
 }
 
 class testClass
